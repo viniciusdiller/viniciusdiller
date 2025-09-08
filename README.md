@@ -45,12 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusdiller&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-###
 
-![pacman contribution graph](https://raw.githubusercontent.com/viniciusdiller/viniciusdiller/output/pacman-contribution-graph.svg)
-
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/viniciusdiller/" target="_blank">
