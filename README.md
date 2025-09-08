@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/viniciusdiller/viniciusdiller/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/viniciusdiller/viniciusdiller/blob/output/github-contribuition-grid-snake.svg)
 
 ###
 
