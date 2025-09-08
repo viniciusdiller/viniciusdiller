@@ -8,7 +8,10 @@
 
 ###
 
-<p align="left">Atualmente faço estágio na prefeitura Municipal de Saquarema .<br>- 📚 Atualmente faço Ciências da Computação.<br>- ⚡ No tempo livre eu gosto de fazer exercícios, jogar aluns jogos eletrônicos e assitir aos jogos do flamengo.</p>
+<p align="left">I am currently an intern at the Municipal Government of Saquarema, where I develop web applications with React and create automations using Python.<br>
+- 📚 I am currently studying Computer Science.<br>
+- ⚡ In my free time, I enjoy working out, playing some video games, and watching Flamengo's matches.<br>
+- 🎯 My goal is to gain more experience and grow professionally.</p>
 
 ###
 
