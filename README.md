@@ -4,11 +4,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Vinícius Diller</h3>
 
 ###
 
-<p align="left">Sou Vinícius Diller de Saquarema, RJ.<br><br>- Atualmente faço estágio na prefeitura Municipal de Saquarema .<br>- 📚 Atualmente faço Ciências da Computação.<br>- ⚡ No tempo livre eu gosto de fazer exercícios, jogar aluns jogos eletrônicos e assitir aos jogos do flamengo.</p>
+<p align="left">Atualmente faço estágio na prefeitura Municipal de Saquarema .<br>- 📚 Atualmente faço Ciências da Computação.<br>- ⚡ No tempo livre eu gosto de fazer exercícios, jogar aluns jogos eletrônicos e assitir aos jogos do flamengo.</p>
 
 ###
 
